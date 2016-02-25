@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mycologiaeuropa00persgoog/mycologiaeuropa00persgoog_0364.png"; bbox 0 0 869 1342; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 118 78 700 706">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 118 78 700 706">
+     <span class='ocr_line' id='line_1_1' title="bbox 118 78 700 706; baseline 0.055 -32"><span class='ocrx_word' id='word_1_1' title='bbox 118 78 700 706; x_wconf 95' lang='lat' dir='ltr'>  </span> <span class='ocrx_word' id='word_1_2' title='bbox 464 674 700 706; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 171 685 662 741">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 171 680 662 741">
+     <span class='ocr_line' id='line_1_2' title="bbox 171 685 662 711; baseline -0.008 -6"><span class='ocrx_word' id='word_1_3' title='bbox 171 685 291 710; x_wconf 26' lang='lat' dir='ltr'>Vexent-5⁰¹</span> <span class='ocrx_word' id='word_1_4' title='bbox 302 686 392 705; x_wconf 67' lang='grc' dir='ltr'>οιιίῐίιὲοὶι</span> <span class='ocrx_word' id='word_1_5' title='bbox 416 688 426 705; x_wconf 70' lang='grc' dir='ltr'><strong>ἑ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 436 694 464 706; x_wconf 70' lang='grc' dir='ltr'>ηπ</span> <span class='ocrx_word' id='word_1_7' title='bbox 513 694 539 711; x_wconf 64' lang='lat' dir='ltr'>,p</span> <span class='ocrx_word' id='word_1_8' title='bbox 554 697 569 702; x_wconf 90' lang='lat'>-.</span> <span class='ocrx_word' id='word_1_9' title='bbox 586 687 591 701; x_wconf 88' lang='grc'>”.</span> <span class='ocrx_word' id='word_1_10' title='bbox 613 697 627 702; x_wconf 53' lang='grc' dir='ltr'>,Η</span> <span class='ocrx_word' id='word_1_11' title='bbox 647 696 662 701; x_wconf 84' lang='grc'>..,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 190 722 344 741; baseline -0.006 -4"><span class='ocrx_word' id='word_1_12' title='bbox 190 722 238 740; x_wconf 65' lang='lat' dir='ltr'>tun,</span> <span class='ocrx_word' id='word_1_13' title='bbox 247 722 344 741; x_wconf 69' lang='lat' dir='ltr'>aequentur.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
